@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="title_activity_resultado">Result</string>
+    <string name="saludo">Write your name</string>
+    <string name="nombre">Name</string>
+    <string name="go">Go</string>
+    <string name="resultado">Hello</string>
+</resources>
